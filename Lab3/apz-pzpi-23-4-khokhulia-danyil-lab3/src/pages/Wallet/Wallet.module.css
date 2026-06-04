@@ -1,0 +1,33 @@
+.balanceDisplay {
+  text-align: center;
+  padding: var(--sp-8);
+  background: var(--gradient-card);
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-2xl);
+  margin-bottom: var(--sp-6);
+}
+
+.balanceAmount {
+  font-size: 3rem;
+  font-weight: var(--fw-extrabold);
+  background: var(--gradient-btn);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.balanceLabel {
+  font-size: var(--fs-sm);
+  color: var(--c-text-muted);
+  margin-top: var(--sp-1);
+}
+
+.txAmountPos {
+  font-weight: 600;
+  color: var(--c-success);
+}
+
+.txAmountNeg {
+  font-weight: 600;
+  color: inherit;
+}

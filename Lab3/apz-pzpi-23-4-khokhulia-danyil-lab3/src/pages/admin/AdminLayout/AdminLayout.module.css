@@ -1,0 +1,63 @@
+.adminLayout {
+  display: flex;
+  min-height: calc(100vh - 72px);
+}
+
+.adminSidebar {
+  width: 260px;
+  background: var(--c-sidebar);
+  border-right: 1px solid var(--c-border);
+  padding: var(--sp-6) 0;
+  flex-shrink: 0;
+}
+
+.adminSidebarTitle {
+  padding: 0 var(--sp-6);
+  font-size: var(--fs-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.adminSidebarLink {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  padding: var(--sp-3) var(--sp-6);
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-medium);
+  color: var(--c-text-muted);
+  transition: all var(--t-fast);
+  cursor: pointer;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+}
+
+.adminSidebarLink:hover,
+.adminSidebarLink.active {
+  color: var(--c-primary);
+  background: var(--c-primary-soft);
+  border-right: 3px solid var(--c-primary);
+}
+
+.adminContent {
+  flex: 1;
+  padding: var(--sp-6);
+  overflow-y: auto;
+  max-width: 1100px;
+}
+
+@media (max-width:768px) {
+  .adminLayout { flex-direction: column; }
+  .adminSidebar { 
+    width: 100%; 
+    border-right: none; 
+    border-bottom: 1px solid var(--c-border); 
+    padding: var(--sp-3) 0; 
+    display: flex; 
+    overflow-x: auto; 
+  }
+  .adminSidebarLink { white-space: nowrap; border-right: none; }
+  .adminSidebarLink.active { border-bottom: 3px solid var(--c-primary); border-right: none; }
+}

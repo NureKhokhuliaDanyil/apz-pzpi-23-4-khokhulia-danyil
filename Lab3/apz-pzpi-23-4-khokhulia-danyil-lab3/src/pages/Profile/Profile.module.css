@@ -1,0 +1,9 @@
+.profileCard {
+  background: var(--c-bg-card);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-xl);
+  padding: var(--sp-6);
+  transition: all var(--t-base);
+  background-image: var(--gradient-card);
+}
