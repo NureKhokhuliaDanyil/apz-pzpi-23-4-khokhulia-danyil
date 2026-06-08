@@ -1,0 +1,64 @@
+.machineCard {
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  transition: all var(--t-base);
+}
+
+.machineCard:hover {
+  border-color: var(--c-primary);
+}
+
+.machineIcon {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto var(--sp-3);
+  border-radius: var(--r-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--c-primary-soft);
+  color: var(--c-primary);
+}
+
+.modeList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-3);
+  max-height: 400px;
+  overflow-y: auto;
+  padding-right: var(--sp-2);
+}
+
+.modeItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--sp-4);
+  background: var(--c-surface-1);
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-lg);
+  cursor: pointer;
+  transition: all var(--t-fast);
+}
+
+.modeItem:hover {
+  border-color: var(--c-primary);
+  background: var(--c-primary-soft);
+}
+
+.modeName {
+  font-weight: var(--fw-bold);
+  font-size: var(--fs-lg);
+}
+
+.modeMeta {
+  font-size: var(--fs-sm);
+  color: var(--c-text-muted);
+}
+
+.modePrice {
+  font-size: var(--fs-xl);
+  font-weight: var(--fw-extrabold);
+  color: var(--c-primary);
+}

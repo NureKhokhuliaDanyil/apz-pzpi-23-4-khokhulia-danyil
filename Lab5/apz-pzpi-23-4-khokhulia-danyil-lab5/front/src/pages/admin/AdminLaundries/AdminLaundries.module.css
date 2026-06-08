@@ -1,0 +1,8 @@
+.nameCell {
+  font-weight: var(--fw-semibold);
+}
+
+.actionButtons {
+  display: flex;
+  gap: var(--sp-2);
+}

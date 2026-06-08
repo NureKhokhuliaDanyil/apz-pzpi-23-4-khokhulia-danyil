@@ -1,0 +1,54 @@
+.sessionContainer {
+  padding: var(--sp-12) 0;
+}
+
+.sessionCard {
+  background: var(--c-bg-card);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--c-primary);
+  border-radius: var(--r-2xl);
+  padding: var(--sp-8);
+  text-align: center;
+  box-shadow: var(--shadow-glow);
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.timerRing {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 4px solid var(--c-border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: var(--sp-6) auto;
+  position: relative;
+  background: var(--c-bg);
+}
+
+.timerRing::before {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: 50%;
+  border: 4px solid transparent;
+  border-top-color: var(--c-primary);
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.timerValue {
+  font-size: var(--fs-4xl);
+  font-weight: var(--fw-extrabold);
+  color: var(--c-primary);
+}
+
+.timerLabel {
+  font-size: var(--fs-sm);
+  color: var(--c-text-muted);
+}

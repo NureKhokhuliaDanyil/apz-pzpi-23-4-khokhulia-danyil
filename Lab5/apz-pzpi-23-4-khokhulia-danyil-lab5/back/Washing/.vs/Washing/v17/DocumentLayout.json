@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E960EFC5-C302-477C-86EB-A66439173EE3}|Washing\\Washing.csproj|c:\\users\\khokh\\desktop\\univer\\3kurs\\1sem\\atark\\washing\\washing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E960EFC5-C302-477C-86EB-A66439173EE3}|Washing\\Washing.csproj|solutionrelative:washing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E960EFC5-C302-477C-86EB-A66439173EE3}|Washing\\Washing.csproj|c:\\users\\khokh\\desktop\\univer\\3kurs\\1sem\\atark\\washing\\washing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E960EFC5-C302-477C-86EB-A66439173EE3}|Washing\\Washing.csproj|solutionrelative:washing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E960EFC5-C302-477C-86EB-A66439173EE3}|Washing\\Washing.csproj|c:\\users\\khokh\\desktop\\univer\\3kurs\\1sem\\atark\\washing\\washing\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E960EFC5-C302-477C-86EB-A66439173EE3}|Washing\\Washing.csproj|solutionrelative:washing\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E960EFC5-C302-477C-86EB-A66439173EE3}|Washing\\Washing.csproj|c:\\users\\khokh\\desktop\\univer\\3kurs\\1sem\\atark\\washing\\washing\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E960EFC5-C302-477C-86EB-A66439173EE3}|Washing\\Washing.csproj|solutionrelative:washing\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E960EFC5-C302-477C-86EB-A66439173EE3}|Washing\\Washing.csproj|c:\\users\\khokh\\desktop\\univer\\3kurs\\1sem\\atark\\washing\\washing\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E960EFC5-C302-477C-86EB-A66439173EE3}|Washing\\Washing.csproj|solutionrelative:washing\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E960EFC5-C302-477C-86EB-A66439173EE3}|Washing\\Washing.csproj|c:\\users\\khokh\\desktop\\univer\\3kurs\\1sem\\atark\\washing\\washing\\washing.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E960EFC5-C302-477C-86EB-A66439173EE3}|Washing\\Washing.csproj|solutionrelative:washing\\washing.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Migrations\\20260111235839_Add_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Washing\\Migrations\\20260111235839_Add_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Migrations\\20260111235110_Add_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Washing\\Migrations\\20260111235110_Add_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\appsettings.json",
+              "RelativeDocumentMoniker": "Washing\\appsettings.json",
+              "ToolTip": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\appsettings.json",
+              "RelativeToolTip": "Washing\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-03T01:58:35.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Dockerfile",
+              "RelativeDocumentMoniker": "Washing\\Dockerfile",
+              "ToolTip": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Dockerfile",
+              "RelativeToolTip": "Washing\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-12T00:10:02.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Washing\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\docker-compose.yml",
+              "RelativeToolTip": "Washing\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-12T00:10:01.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Washing\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Washing\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T23:59:00.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Washing.http",
+              "DocumentMoniker": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Washing.http",
+              "RelativeDocumentMoniker": "Washing\\Washing.http",
+              "ToolTip": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Washing.http",
+              "RelativeToolTip": "Washing\\Washing.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-11T23:58:52.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Program.cs",
+              "RelativeDocumentMoniker": "Washing\\Program.cs",
+              "ToolTip": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Program.cs",
+              "RelativeToolTip": "Washing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:58:16.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260111235839_Add_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Migrations\\20260111235839_Add_Initial.cs",
+              "RelativeDocumentMoniker": "Washing\\Migrations\\20260111235839_Add_Initial.cs",
+              "ToolTip": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Migrations\\20260111235839_Add_Initial.cs",
+              "RelativeToolTip": "Washing\\Migrations\\20260111235839_Add_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T23:58:39.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260111235110_Add_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Migrations\\20260111235110_Add_Initial.cs",
+              "RelativeDocumentMoniker": "Washing\\Migrations\\20260111235110_Add_Initial.cs",
+              "ToolTip": "C:\\Users\\khokh\\Desktop\\UNIVER\\3kurs\\1sem\\ATARK\\Washing\\Washing\\Migrations\\20260111235110_Add_Initial.cs",
+              "RelativeToolTip": "Washing\\Migrations\\20260111235110_Add_Initial.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAcwHwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T23:51:10.501Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

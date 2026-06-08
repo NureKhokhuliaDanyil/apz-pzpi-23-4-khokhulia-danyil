@@ -1,0 +1,13 @@
+.modeName {
+  font-weight: var(--fw-semibold);
+}
+
+.modePrice {
+  color: var(--c-primary);
+  font-weight: var(--fw-bold);
+}
+
+.actionButtons {
+  display: flex;
+  gap: var(--sp-2);
+}
